@@ -6,14 +6,14 @@ My name is Bee Nguyen. I am a Data Engineer. I am interested in the following to
 
 
 
-![Thang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thangnh1&show_icons=true&theme=moltack&hide=contribs,prs,issues)
+![Thang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thangnh1&show_icons=true&theme=gruvbox&hide=contribs,prs,issues)
 
 
 <a href="https://github.com/thangnh1/HTFOOD/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=HTFOOD&theme=gruvbox_light" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=HTFOOD&theme=gruvbox" />
 </a> 
 <a href="https://github.com/thangnh1/PestClassification/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=PestClassification&theme=gruvbox_light" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=PestClassification&theme=gruvbox" />
 </a> 
