@@ -2,7 +2,7 @@
 My name is Bee Nguyen. I am a Data Engineer. I am interested in the following topics: Data, Deep Learning in Computer Vision.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/beenguyen1/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thangnh1/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/beenguyen1/)   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thangnh1/)
 
 
 
