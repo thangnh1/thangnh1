@@ -11,9 +11,9 @@ My name is Bee Nguyen. I am a Data Engineer. I am interested in the following to
 
 <a href="https://github.com/thangnh1/HTFOOD/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=HTFOOD&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=HTFOOD&theme=bear" />
 </a> 
 <a href="https://github.com/thangnh1/PestClassification/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=PestClassification&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=PestClassification&theme=bear" />
 </a> 
