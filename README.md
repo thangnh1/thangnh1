@@ -19,7 +19,7 @@ My name is Bee Nguyen. I am a Data Engineer. I am interested in the following to
 </a> 
 <a href="https://github.com/thangnh1/Analysis_with_Bash/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Analysis_with_Bash&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Analysis_with_Bash&theme=highcontrast" />
 </a> 
 <a href="https://github.com/thangnh1/HTFOOD/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
