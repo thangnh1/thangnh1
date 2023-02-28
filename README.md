@@ -11,7 +11,7 @@ My name is Bee Nguyen. I am a Data Engineer. I am interested in the following to
 
 <a href="https://github.com/thangnh1/HTFOOD/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=HTFOOD&theme=bear" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=HTFOOD&theme=radical" />
 </a> 
 <a href="https://github.com/thangnh1/PestClassification/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -19,13 +19,13 @@ My name is Bee Nguyen. I am a Data Engineer. I am interested in the following to
 </a> 
 <a href="https://github.com/thangnh1/restaurant/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=restaurant&theme=bear" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=restaurant&theme=merko" />
 </a> 
 <a href="https://github.com/thangnh1/CVMaker/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=CVMaker&theme=bear" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=CVMaker&theme=gruvbox" />
 </a> 
 <a href="https://github.com/thangnh1/blog_with_nestjs/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=blog_with_nestjs&theme=bear" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=blog_with_nestjs&theme=cobalt" />
 </a> 
