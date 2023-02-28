@@ -11,7 +11,7 @@ My name is Bee Nguyen. I am a Data Engineer. I am interested in the following to
 
 <a href="https://github.com/thangnh1/Crawl_Tiki/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Crawl_Tiki&theme=cobalt2" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Crawl_Tiki&theme=omni" />
 </a> 
 <a href="https://github.com/thangnh1/PestClassification/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
