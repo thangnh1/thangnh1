@@ -17,3 +17,7 @@ My name is Bee Nguyen. I am a Data Engineer. I am interested in the following to
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=PestClassification&theme=bear" />
 </a> 
+<a href="https://github.com/thangnh1/restaurant/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=restaurant&theme=bear" />
+</a> 
