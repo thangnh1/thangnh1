@@ -21,23 +21,23 @@ My name is Bee Nguyen. I am a Data Engineer. I am interested in the following to
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Crawling_GPU_Info&theme=dracula" />
 </a> 
-<a href="https://github.com/thangnh1/Analysis_with_Bash/">
+<a href="https://github.com/thangnh1/Vnstock-Data-GCP/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Analysis_with_Bash&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Vnstock-Data-GCP&theme=prussian" />
 </a> 
 <a href="https://github.com/thangnh1/HTFOOD/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=HTFOOD&theme=radical" />
 </a> 
-<a href="https://github.com/thangnh1/restaurant/">
+<a href="https://github.com/thangnh1/VNStock/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=restaurant&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=VNStock&theme=merko" />
 </a> 
 <a href="https://github.com/thangnh1/CVMaker/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=CVMaker&theme=synthwave" />
 </a> 
-<a href="https://github.com/thangnh1/blog_with_nestjs/">
+<a href="https://github.com/thangnh1/Airflow-GCP/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=blog_with_nestjs&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Airflow-GCP&theme=cobalt" />
 </a> 
