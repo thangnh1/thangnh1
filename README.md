@@ -21,9 +21,9 @@ My name is Bee Nguyen. I am a Software Engineer Coach and a Data Engineer. I am 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Crawling_GPU_Info&theme=dracula" />
 </a> 
-<a href="https://github.com/thangnh1/Vnstock-Data-GC/">
+<a href="https://github.com/thangnh1/Vnstock-Data-GCP/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Vnstock-Data-GCP&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangnh1&repo=Vnstock-Data-GC&theme=prussian" />
 </a> 
 <a href="https://github.com/thangnh1/HTFOOD/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
