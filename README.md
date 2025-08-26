@@ -6,7 +6,7 @@ My name is Bee Nguyen. I am a Software Engineer Coach and a Data Engineer. I am 
 
 
 
-![Thang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thangnh1&show_icons=true&theme=gruvbox&hide=contribs,prs,issues)
+![Thang's github stats](https://github-readme-stats.vercel.app/api?username=thangnh1&show_icons=true&theme=gruvbox&hide=contribs,prs,issues)
 
 
 <a href="https://github.com/thangnh1/Crawl_Tiki/">
